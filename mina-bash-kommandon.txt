@@ -1,8 +1,8 @@
 Jag började med att öppna Git-terminalen. 
 Skulle kolla vart i terminalen jag befann mig, så tryckte jag pwd.
-Befann mig på rätt ställe. Då kunde jag skapa en fil med kommando mkrdir Kursmapp, 
+Befann mig på rätt ställe. Då kunde jag skapa en fil med kommando mkdir Kursmapp, 
 men jag skulle också skapa en undermapp och fil.
 Skrev in kommando cd Kursmapp och dubbelkollade med pwd att det var rätt.
-Så skapade jag en ny mapp i mappen mkrdir Projekt.
+Så skapade jag en ny mapp i mappen mkdir Projekt.
 Skrev cd Projekt, så att jag befann mig i den rätta mappen.
 Med hjälp av touch mina-bash-kommandon.txt kunde jag skapa en direkt i mappen.
