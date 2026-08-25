@@ -1,12 +1,12 @@
 # **Projektet**
-## **Det jag har gjort än så länge**
+## **Det jag har gjort**
 
 * Använt mig av `Git` och dess _[kommandon](https://mai26ma-ha.lms.nodehill.se/article/att-anvanda-bash-i-command-line-kommandon-i-terminalen)_
-* Skapat en `mapp`
-* Skapat en `undermapp`
-* Gått in i `undermappen`
-* Skapat en `txt-fil`
-* Skapat en `README.md`
+* Skapat en mapp `mkdir Kursmapp`
+* Skapat en undermapp `cd Kursmapp, mkdir Projekt`
+* Gått in i undermappen `cd Projekt`
+* Skapat en  txt- fil `touch mina-bash-kommandon.txt`
+* Skapat en README.md `touch README.md`
 ---
 Skriver just nu i min `README.md` och med hjälp av [markdown](https://commonmark.org/help/) kan jag få det att se prydligare ut.
 ---
