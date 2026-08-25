@@ -11,10 +11,13 @@
 Skriver just nu i min `README.md` och med hjälp av [markdown](https://commonmark.org/help/) kan jag få det att se prydligare ut.
 ---
 ## Git-kommandon
-
-- `git status` – visar vilka filen som senaste är ändrade
-- `git add` – lägger till ändringar i staging-området inför en commit.
+- `git init` – skapde ett repository
+- `git status` – visar vilka filer som senaste är ändrade
+- `git add` – lägger till filändringar inför nästa commit
 - `git commit -m "meddelande"` – sparar de förberedda ändringarna i versionshistoriken.
+- `git remote` – hantera repo på servern, för tex configa den med namn och email
+- `git branch` – hanterar branches
+- `git push` – skickar upp branch till git-servern
 
 
 
